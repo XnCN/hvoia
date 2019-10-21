@@ -10,12 +10,12 @@ const data = [
     },
     {
         name:'Irmak Han',
-        age:10,
+        age:30,
         information: {
             level: 33,
         }
     }
 ];
 
-const result = hvoia(data,'information.level');
+const result = hvoia(data,'age');
 console.log(result);
