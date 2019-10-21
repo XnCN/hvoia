@@ -1,0 +1,33 @@
+{
+  "name": "hvoia",
+  "version": "1.0.0",
+  "description": "This library that finds the highest value object in the array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "highest",
+    "value",
+    "objects",
+    "array",
+    "json",
+    "max",
+    "value",
+    "in",
+    "json",
+    "max",
+    "object",
+    "in",
+    "json",
+    "find",
+    "max",
+    "value",
+    "json",
+    "in",
+    "array"
+  ],
+  "author": "Eray Han",
+  "license": "ISC"
+}
