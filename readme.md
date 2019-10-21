@@ -32,7 +32,7 @@ const data = [
 ];
 
 const result = hvoia(data,'information.level');
-console.log(result);
+console.log(result); //{ name: 'Eray Han', age: 22, information: { level: 37 } }
 ```
 
 ## Contributing
