@@ -12,8 +12,8 @@ npm install hvoia
 
 ## Usage
 
-```python
-const hvoia = require('hovoia');
+```javascript
+const hvoia = require('hvoia');
 const data = [
     {
         name:'Eray Han',
@@ -32,16 +32,14 @@ const data = [
 ];
 
 const result = hvoia(data,'information.level');
-console.log(result); //{ name: 'Eray Han', age: 22, information: { level: 37 } }
+console.log(result); 
+//{ name: 'Eray Han', age: 22, information: { level: 37 } }
 ```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
 
 ##Thanks
 Jetbrains/Webstorm

@@ -17,5 +17,5 @@ const data = [
     }
 ];
 
-const result = hvoia(data,'age');
+const result = hvoia(data,'information.level');
 console.log(result);
